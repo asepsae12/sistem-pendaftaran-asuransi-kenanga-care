@@ -1,35 +1,21 @@
-# Sistem Informasi Pendaftaran Online
-Aplikasi ini merupakan Aplikasi Penerimaan Siswa Baru secara online menggunakan website dengan PHP dan MySQL. Aplikasi ini menggunakan database yang dinamakan "db_psb", pada database tersebut terdapat dua table, yaitu Tabel Admin dan Tabel Pendaftaran. Terdapat dua user yang tersedia pada aplikasi ini, yaitu user admin dan user calon siswa.
+#halaman Formulir Pendaftaran
+<img width="1340" height="650" alt="formulir" src="https://github.com/user-attachments/assets/86384fb5-9eea-4ee5-8980-03f3c6306bd7" />
 
-User:
-----------------
-1. Admin (Edit Data, Hapus Data, Update Data, Read Data, Print Data)
-2. Calon Siswa (Daftar, Print)
+#Halaman Login Admin
+<img width="1353" height="641" alt="login" src="https://github.com/user-attachments/assets/4e6f6216-9eef-45a4-9c6f-76f33b1ad277" />
 
-Fitur:
-----------------
-1. Autentikasi Login Admin
-2. CRUD Data Penerimaan Siswa Baru
+#Halaman Dashboard Admin
+<img width="1351" height="652" alt="dashboard-admin" src="https://github.com/user-attachments/assets/47076a8a-0ea3-4b67-8824-cff566856407" />
 
-Tabel database **`db_psb`** :
-----------------
-## Tabel Admin
-![Tabel Admin](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TabelAdmin.jpg)
-## Tabel Pendaftaran
-![Tabel Pendaftaran](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Database/TabelPendaftaran.jpg)
+#Halaman Daftar Peserta 
+<img width="1345" height="652" alt="data-peserta" src="https://github.com/user-attachments/assets/ae34194f-3c5e-4886-91ae-0654aa03398b" />
 
-### Screenshot Aplikasi ###
---------------
-## Login User Formulir Pendaftaran
-![Login User Formulir Pendaftaran](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanFormulirPendaftaran.jpg)
-## Login User Pendaftaran Berhasil
-![Login User Pendaftaran Berhasil](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanPendaftaranBerhasil.jpg)
-## Login User Login
-![Login User Login](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanLogin.jpg)
-## Login User Halaman Admin
-![Login User Halaman Admin](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanHalamanAdmin.jpg)
-## Login User Data Peserta
-![Login User Data Peserta](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanDataPeserta.jpg)
-## Login User Detail Data Peserta
-![Login User Detail Data Peserta](https://raw.githubusercontent.com/rusydimuhammad/Sistem-Informasi-Pendaftaran-Online/main/assets/Tampilan/TampilanDetailDataPeserta.jpg)
+#Halaman Detail Peserta
+<img width="1342" height="650" alt="detail-peserta" src="https://github.com/user-attachments/assets/073d6d2c-2dbc-4ccd-9059-51c86aafcafc" />
+
+#Halaman Cetak Bukti Pendaftaran
+<img width="1197" height="643" alt="cetak-pendaftaran" src="https://github.com/user-attachments/assets/0c8f2bc6-0096-47a5-9243-acaea0bd7b30" />
+
+#Halaman Cetak Kartu
+<img width="841" height="401" alt="cetak-kartu" src="https://github.com/user-attachments/assets/871b56b8-d790-40a3-9772-436ceba5053c" />
 
